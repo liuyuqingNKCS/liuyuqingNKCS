@@ -6,9 +6,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=liuyuqingNKCS&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=liuyuqingNKCS&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/liuyuqingNKCS/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact&count_private=true&include_all_commits=true)](https://github.com/liuyuqingNKCS/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals) -->
 
