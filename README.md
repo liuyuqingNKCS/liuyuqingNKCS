@@ -8,17 +8,25 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=liuyuqingNKCS&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact&count_private=true&include_all_commits=true)](https://github.com/liuyuqingNKCS/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals) -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=wuziqi&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=RDH-in-Color-Image-With-Grayscale-Invariance&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=Huarongdao&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=ccompiler&show_owner=true" />
 </a>
 
 <img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
