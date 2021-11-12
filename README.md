@@ -1,6 +1,38 @@
-### Hi there 👋
+### Hi there 👋 I’m Yuqing Liu
+
+🌱 I’m actively looking for summer intern in 2022
+
+😄 About me: Now I'm a first year master student majoring in Computer Science at Viterbi School of Engineering at University of Southern California. 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=liuyuqingNKCS&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=convoychat" />
+</a>
+
+<img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
+
+<img align="center" src="https://img.shields.io/badge/Label-Message-Red?style=for-the-badge&logo=appveyor" />
+
+<img align="center" src="https://img.shields.io/codeclimate/issues/:liuyuqingNKCS/:mini-goals" />
+	
+![GitHub language count](https://img.shields.io/github/languages/count/liuyuqingNKCS/mini-goals)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liuyuqingNKCS.mini-goals&left_color=green&right_color=red&style=for-the-badge&logo=appveyor)
 
 <!--
+
 **liuyuqingNKCS/liuyuqingNKCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
