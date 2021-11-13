@@ -8,8 +8,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=liuyuqingNKCS&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/liuyuqingNKCS/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
+ -->
+ 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals) -->
 
 
@@ -29,16 +30,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=ccompiler&show_owner=true" />
 </a>
 
-<!-- <img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
+<img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
 
 <img align="center" src="https://img.shields.io/badge/Label-Message-Red?style=for-the-badge&logo=appveyor" />
 
-<img align="center" src="https://img.shields.io/codeclimate/issues/:liuyuqingNKCS/:mini-goals" />
+<!-- <img align="center" src="https://img.shields.io/codeclimate/issues/:liuyuqingNKCS/:mini-goals" /> -->
 	
 ![GitHub language count](https://img.shields.io/github/languages/count/liuyuqingNKCS/mini-goals)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liuyuqingNKCS.mini-goals&left_color=green&right_color=red&style=for-the-badge&logo=appveyor)
- -->
+
 <!--
 
 **liuyuqingNKCS/liuyuqingNKCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
