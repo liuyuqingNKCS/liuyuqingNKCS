@@ -6,8 +6,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/liuyuqingNKCS/)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
+
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals) -->
 
