@@ -29,19 +29,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
-
-
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
+ -->
 
 - 📫 How to reach me: 
-	+ <img align="center" src="https://img.shields.io/badge/gmail-flora19971224@gmail.com-brightgreen" />
+	+ <img align="center" src="https://img.shields.io/badge/Gmail-flora19971224@gmail.com-brightgreen" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark) -->
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark" />
+</p>
 
-
- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=cs231n&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=Huarongdao&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
@@ -51,24 +50,6 @@
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liuyutsing&range=last_7_days)](https://github.com/liuyuqingNKCS) -->
-
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=wuziqi&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=RDH-in-Color-Image-With-Grayscale-Invariance&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=Huarongdao&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=ccompiler&show_owner=true" />
-</a> -->
 
 <!-- <img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
 
