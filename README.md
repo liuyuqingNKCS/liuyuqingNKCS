@@ -1,18 +1,34 @@
 ### Hi there 👋 I’m Yuqing Liu
 
-🌱 I’m actively looking for summer intern in 2022
+- 🌱 I’m actively looking for summer intern in 2022.
 
-😄 About me: Now I'm a first year master student majoring in Computer Science at Viterbi School of Engineering at University of Southern California. 
+- 😄 About me:
+	+ I graduated from College of Software Engineering at Nankai University in August 2020. 
+	+ I'm a first year master student majoring in CS at University of Southern California (USC) now.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/liuyuqingNKCS/)
+- ⚡ Working Experience:
+	+ ByteDance Ltd (07/2019 - 07/2020): Lauched algorithms for automation anomaly detection on single and multi-variable time series data using Python. 
+	+ Beijing JudaoYouda Network Technology Co., Ltd (07/2018 - 09/2018): Released an English e-book web application with audiovisual functions for children with four other team members using Vue.js.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)
+- :smiley: Languages I used:
+	+ Python, Java, C++, HTML, C#, CSS, JavaScript, MySQL, WXSS, WXML
+	
+<div align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuqingNKCS&count_private=true&layout=compact)](https://github.com/liuyuqingNKCS/)</div>
+
+- 📫 How to reach me: 
+	+ flora19971224@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyuqingNKCS&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark)
+
+
+
 
  
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true)](https://github.com/liuyuqingNKCS/mini-goals)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liuyutsing&range=last_7_days)](https://github.com/liuyuqingNKCS)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=mini-goals&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -26,7 +42,7 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyuqingNKCS&repo=ccompiler&show_owner=true" />
-</a>
+</a> -->
 
 <!-- <img align="center" src="https://img.shields.io/static/v1?label=LABLE&message=Java&color=red" />
 
