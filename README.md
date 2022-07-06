@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Yuqing Liu
 
-- 🌱 I’m actively looking for summer intern in 2022.
+- 🌱 I’m actively looking for full time SDE position in 2023.
 
 - 😄 About me:
 	+ I graduated from College of Software Engineering at Nankai University in August 2020. 
