@@ -1,24 +1,45 @@
-### Hi there 👋 I’m Yuqing Liu
+### Hi there 👋 I’m Yuqing (Flora) Liu
 
 - 🌱 I’m actively looking for full time SDE position in 2023.
 
 - 😄 About me:
-	+ I graduated from College of Software Engineering at Nankai University in August 2020. 
-	+ I'm a first year master student majoring in CS at University of Southern California (USC) now.
+	+ I'm pursuing my Master's degree in Computer Science in University of Southern California. Expected graduation date: **05/2023**.
+	+ My major interest falls in distributed storage and large-scale data processing. And I love back-end developing works.
+	+ [LinkedIn](https://www.linkedin.com/in/liuyutsing/) [Personal Website](https://www.liuyutsing.com/)
 
 - ⚡ Working Experience:
-	+ ByteDance Ltd (07/2019 - 07/2020): Lauched algorithms for automation anomaly detection on single and multi-variable time series data using Python. 
-	+ Beijing JudaoYouda Network Technology Co., Ltd (07/2018 - 09/2018): Released an English e-book web application with audiovisual functions for children with four other team members using Vue.js.
+	+ Facebook: Built pipelines that continuously validate political preferences of 1.96 billion Meta users are not used in Ads targeting.
+	 <img src="https://img.shields.io/badge/GraphQL-brightgreen" />
+	 <img src="https://img.shields.io/badge/React-brightgreen" />
+	 <img src="https://img.shields.io/badge/Pipelines-brightgreen" />
+	 <img src="https://img.shields.io/badge/Presto-brightgreen" />
+	 <img src="https://img.shields.io/badge/MySQL-brightgreen" />
+	 <img src="https://img.shields.io/badge/Message Queue-brightgreen" />
+	 <img src="https://img.shields.io/badge/Apache Thrift-brightgreen" />
+	 <img src="https://img.shields.io/badge/Python-brightgreen" />
+	 
+	+ ByteDance (Tiktok): Lauched algorithms for automation anomaly detection on single and multi-variable time series data using Python. 
+	<img src="https://img.shields.io/badge/Microservices-brightgreen" />
+	<img src="https://img.shields.io/badge/ClickHouse-brightgreen" />
+	<img src="https://img.shields.io/badge/Apache Kafka-brightgreen" />
+	<img src="https://img.shields.io/badge/Anomaly Detection-brightgreen" />
+	<img src="https://img.shields.io/badge/Data Mining-brightgreen" />
+
+	+ Beijing JudaoYouda Network Technology Co., Ltd: Released an English e-book web application with audiovisual functions for children with four other team members.
+	<img src="https://img.shields.io/badge/Vue.js-brightgreen" />
+	<img src="https://img.shields.io/badge/MySQL-brightgreen" />
+	<img src="https://img.shields.io/badge/Unit Test-brightgreen" />
+	<img src="https://img.shields.io/badge/Django-brightgreen" />
 
 - :smiley: Languages I used:
 
 <p align="middle">
-  <img src="https://img.shields.io/badge/Python-brightgreen" />
   <img src="https://img.shields.io/badge/Java-red" /> 
+  <img src="https://img.shields.io/badge/C++-blue" />
+  <img src="https://img.shields.io/badge/Python-brightgreen" />
   <img src="https://img.shields.io/badge/JavaScript-orange" />
   <img src="https://img.shields.io/badge/HTML-yellowgreen" />
   <img src="https://img.shields.io/badge/CSS-brightgreen" />
-  <img src="https://img.shields.io/badge/C++-blue" />
   <img src="https://img.shields.io/badge/C%23-blueviolet" />
   <img src="https://img.shields.io/badge/MySQL-ff69b4" />
   <img src="https://img.shields.io/badge/WXSS-yellowgreen" />
