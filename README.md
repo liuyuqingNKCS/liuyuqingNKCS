@@ -9,26 +9,26 @@
 
 - ⚡ Working Experience:
 	+ Facebook: Built pipelines that continuously validate political preferences of 1.96 billion Meta users are not used in Ads targeting.
-	 <img src="https://img.shields.io/badge/GraphQL-brightgreen" />
-	 <img src="https://img.shields.io/badge/React-brightgreen" />
+	 <img src="https://img.shields.io/badge/GraphQL-red" />
+	 <img src="https://img.shields.io/badge/React-orange" />
 	 <img src="https://img.shields.io/badge/Pipelines-brightgreen" />
-	 <img src="https://img.shields.io/badge/Presto-brightgreen" />
-	 <img src="https://img.shields.io/badge/MySQL-brightgreen" />
-	 <img src="https://img.shields.io/badge/Message Queue-brightgreen" />
-	 <img src="https://img.shields.io/badge/Apache Thrift-brightgreen" />
-	 <img src="https://img.shields.io/badge/Python-brightgreen" />
+	 <img src="https://img.shields.io/badge/Presto-yellowgreen" />
+	 <img src="https://img.shields.io/badge/MySQL-blueviolet" />
+	 <img src="https://img.shields.io/badge/Message Queue-ff69b4" />
+	 <img src="https://img.shields.io/badge/Apache Thrift-blue" />
+	 <img src="https://img.shields.io/badge/Python-red" />
 	 
 	+ ByteDance (Tiktok): Lauched algorithms for automation anomaly detection on single and multi-variable time series data using Python. 
 	<img src="https://img.shields.io/badge/Microservices-brightgreen" />
-	<img src="https://img.shields.io/badge/ClickHouse-brightgreen" />
-	<img src="https://img.shields.io/badge/Apache Kafka-brightgreen" />
+	<img src="https://img.shields.io/badge/ClickHouse-yellowgreen" />
+	<img src="https://img.shields.io/badge/Apache Kafka-orange" />
 	<img src="https://img.shields.io/badge/Anomaly Detection-brightgreen" />
-	<img src="https://img.shields.io/badge/Data Mining-brightgreen" />
+	<img src="https://img.shields.io/badge/Data Mining-ff69b4" />
 
 	+ Beijing JudaoYouda Network Technology Co., Ltd: Released an English e-book web application with audiovisual functions for children with four other team members.
-	<img src="https://img.shields.io/badge/Vue.js-brightgreen" />
+	<img src="https://img.shields.io/badge/Vue.js-orange" />
 	<img src="https://img.shields.io/badge/MySQL-brightgreen" />
-	<img src="https://img.shields.io/badge/Unit Test-brightgreen" />
+	<img src="https://img.shields.io/badge/Unit Test-yellowgreen" />
 	<img src="https://img.shields.io/badge/Django-brightgreen" />
 
 - :smiley: Languages I used:
